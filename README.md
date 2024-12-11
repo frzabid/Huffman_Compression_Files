@@ -1,7 +1,7 @@
 
 # Huffman Text Compression  
 
-This Python project uses Huffman Encoding for compressing and decompressing text files. It supports `.txt`, `.docx`, and `.pdf` formats and provides efficient storage with metadata for decoding.
+This Python project uses Huffman Encoding for compressing and decompressing text files. It supports `.txt`, `.docx`,`.pdf`,`.csv`,`.xlsx` and `.json` formats and provides efficient storage with metadata for decoding.
 
 ## Features  
 - Compress text files using Huffman Encoding.  
